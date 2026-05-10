@@ -80,7 +80,7 @@ pipeline {
         }
 
         failure {
-            echo 'Deployment failed'
+            echo 'Deployment  jsndi failed'
         }
 
         always {
